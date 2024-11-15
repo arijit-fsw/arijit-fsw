@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arijit-fsw
+- 🌱 I’m currently learning ...
+- INFO-6109 Application Technologies
+- INFO-6136 Data Technologies
+- RSCH-6017 Researching and documenting the system
